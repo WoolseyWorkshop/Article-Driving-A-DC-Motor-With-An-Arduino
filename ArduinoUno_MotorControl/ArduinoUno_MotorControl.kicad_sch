@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Aruino Uno With DC Motor Controller")
-    (date "2022-03-28")
-    (rev "0.1")
+    (title "Arduino Uno With DC Motor Controller")
+    (date "2022-07-13")
+    (rev "0.2")
     (company "Woolsey Workshop")
     (comment 1 "By John Woolsey")
   )
@@ -1555,7 +1555,7 @@
     (property "Reference" "#PWR?" (id 0) (at 52.07 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 52.07 72.39 0))
+    (property "Value" "+5V" (id 1) (at 52.07 72.39 0))
     (property "Footprint" "" (id 2) (at 52.07 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
